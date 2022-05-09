@@ -2,7 +2,7 @@
 
 ## What is it?
 
-  This is a simple NFT marketplace.
+  This is the frontend to a simple NFT marketplace.
 
   It is a decentralized marketplace where you can sell and buy NFTs.
 
